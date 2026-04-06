@@ -19,13 +19,19 @@ Two Modules -
 Steps
 1. ("/")
   default moves to EmployeeLogin page
+
 2.("/employee_register")
   employee can register his name with details
+  
 3.("/employee_dashboard")
   employees can view their tasks given by the admin and update the status to them
 
+
+
+
  4.("/admin_login")
    admin login with respective username and password
+   
 5.("/admin_dashboard")
   admin dashboard has - new requests, assign tasks to employees, below view the employees
    
